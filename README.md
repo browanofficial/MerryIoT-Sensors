@@ -11,13 +11,15 @@
 
 Region code mapping table:
 
-| Region Code | Region |
-|-------------|--------|
-| 0           | US915  |
-| 1           | EU868  |
-| 2           | AS923  |
-| 3           | AU915  |
-| 8           | IN865  |
+| Region Code | Region  |
+|-------------|---------|
+| 0           | US915   |
+| 1           | EU868   |
+| 2           | AS923-1 |
+| 3           | AU915   |
+| 8           | IN865   |
+| 10          | AS923-2 |
+| 11          | AS923-3 |
 
 ## How to upgrade firmware
 
