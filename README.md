@@ -42,7 +42,7 @@ Region code mapping table:
 5. Launch the "Device Manager" app. The DUT will be found.
 
     DUT's naming rule:
-    - [Model name]-[Latest 6 number if DevEUI]
+    - [Model name]-[Latest 6 number of DevEUI]
     - DevEUI should be uppercase
 
     | Sensor Name               | Advertising Name Example |
