@@ -7,7 +7,7 @@
 | WSMS-158 Open/Close       | v2.x.7         |
 | WSMS-159 Leak Detection   | v2.x.10        |
 
-The `x` in version is region code.
+**The `x` in version is region code.**
 
 Region code mapping table:
 
