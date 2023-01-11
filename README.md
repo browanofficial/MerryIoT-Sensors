@@ -25,6 +25,8 @@ Region code mapping table:
 
 1. Download Device Manager.
 
+    **NOTE: There may be some differences between every OS version.**
+
     - iOS: <https://apps.apple.com/tw/app/nrf-connect-device-manager/id1519423539>
     - Android: <https://play.google.com/store/apps/details?id=no.nordicsemi.android.nrfconnectdevicemanager>
 
