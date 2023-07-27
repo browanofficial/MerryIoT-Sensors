@@ -3,7 +3,7 @@
 | Sensor Name               | Latest Version | Firmware List                                                                           |
 |---------------------------|----------------|-----------------------------------------------------------------------------------------|
 | WSMS-156 Motion Detection | v2.x.12        | [Firmware List](https://github.com/browanofficial/MerryIoT-Sensors/releases?q=wsms-156) |
-| WSMS-157 Air Quality CO2  | v3.x.17        | [Firmware List](https://github.com/browanofficial/MerryIoT-Sensors/releases?q=wsms-157) |
+| WSMS-157 Air Quality CO2  | v3.x.18        | [Firmware List](https://github.com/browanofficial/MerryIoT-Sensors/releases?q=wsms-157) |
 | WSMS-158 Open/Close       | v2.x.7         | [Firmware List](https://github.com/browanofficial/MerryIoT-Sensors/releases?q=wsms-158) |
 | WSMS-159 Leak Detection   | v2.x.9         | [Firmware List](https://github.com/browanofficial/MerryIoT-Sensors/releases?q=wsms-159) |
 
